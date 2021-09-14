@@ -1,0 +1,2 @@
+# AI-FekeNews
+Simple demo.
