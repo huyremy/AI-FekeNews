@@ -1,2 +1,2 @@
 # AI-FekeNews
-Simple demo.
+Simple demo. Run: python3 torf.py
